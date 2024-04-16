@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0c235032-a1d5-4c77-bb5c-cde7e2a48a34" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/CHAT.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Find_users.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Pedido.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/resources/CAFETERIA_CHICA/COMIDAS.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/resources/CAFETERIA_CHICA/COMIDAS_CON_GUISO.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/resources/CAFETERIA_CHICA/PEDIDO.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/resources/CAFETERIA_CHICA/PRODUCTOS.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/resources/CAFETERIA_GRANDE/COMIDAS.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/resources/CAFETERIA_GRANDE/COMIDAS_CON_GUISO.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/resources/CAFETERIA_GRANDE/PEDIDO.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/resources/CAFETERIA_GRANDE/PRODUCTOS.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/resources/ENCARGADOS.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/AppTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2f4HSw95vF1QDLPnUOQdHZbXCWx" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.App.executor": "Run",
+    "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/ISRAEL/Documents/BOT/src/main/java/resources/CAFETERIA_GRANDE",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\ISRAEL\Documents\BOT\src\main\java\resources\CAFETERIA_GRANDE" />
+      <recent name="C:\Users\ISRAEL\Documents\BOT\src\main\java\resources\CAFETERIA_CHICA" />
+      <recent name="C:\Users\ISRAEL\Documents\BOT\src\main\java\resources" />
+      <recent name="C:\Users\ISRAEL\Documents\BOT\src\main\java" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ISRAEL\Documents\BOT\src\main\java\resources" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-17.0.10-corretto-17.0.10-4caba194b151-5cd809f4" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0c235032-a1d5-4c77-bb5c-cde7e2a48a34" name="Changes" comment="" />
+      <created>1713053436813</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1713053436813</updated>
+      <workItem from="1713053438016" duration="16475000" />
+      <workItem from="1713107069069" duration="9909000" />
+      <workItem from="1713118999001" duration="41481000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
